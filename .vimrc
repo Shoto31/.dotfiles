@@ -8,7 +8,6 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'junegunn/vim-easy-align'
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
-
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
@@ -33,6 +32,8 @@ Plug 'junegunn/goyo.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'dylanaraps/wal.vim'
 Plug 'lifepillar/vim-solarized8'
+Plug 'ulwlu/elly.vim'
+Plug 'mhinz/vim-startify'
 
 " Initialize plugin system
 call plug#end()
@@ -41,4 +42,6 @@ call plug#end()
 map <C-f> :NERDTreeToggle<CR>
 map <C-g> :Goyo<CR>
 
-
+let g:lightline = {
+      \ 'colorscheme' : 'elly',
+      \ }
