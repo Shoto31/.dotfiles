@@ -7,20 +7,18 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 # Here are my Windows Managers config files
 
-- [Awesome](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.config/Awesome)
-- [XMonad](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.xmonad)
+- [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)
+- [XMonad](https://github.com/Shoto31/Dotfiles/tree/main/xmonad)
 
 # Some other config files of mine are 
 
 
-- [Alacritty](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.config/Alacritty)
-- [Qutebrowser](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.config/qutebrowser)
-- [XMobar](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.config/xmobar)
-- [Doom Emacs](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.doom.d)
-- [Moc](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.moc)
-- [Oh-My-Zsh](https://gitlab.com/Shoto31/dotfiles/-/tree/master/.oh-my-zsh)
-- [Zsh](https://gitlab.com/Shoto31/dotfiles/-/blob/master/.zshrc)
-- [dmenu](https://gitlab.com/Shoto31/dotfiles/-/blob/master/.dmenu)
+- [Alacritty](https://github.com/Shoto31/Dotfiles/tree/main/.config/alacritty)
+- [Qutebrowser](https://github.com/Shoto31/Dotfiles/tree/main/.config/qutebrowser)
+- [XMobar](https://gitlab.com/Shoto31/Dotfiles/tree/main/.config/xmobar)
+- [Doom Emacs](https://gitlab.com/Shoto31/Dotfiles/tree/main/.doom.d)
+- [Zsh](https://github.com/Shoto31/Dotfiles/blob/main/.zshrc)
+
 
 
 
