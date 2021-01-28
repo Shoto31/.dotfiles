@@ -9,14 +9,14 @@
     background-color:            #282c34;
     border-color:                #282c34;
     text-color:                  #bbc2cf;
-    font:                        "Mononoki Nerd Font Mono 9";
-    prompt-font:                 "Mononoki Nerd Font Bold 9";
+    font:                        "Hack 9";
+    prompt-font:                 "Hack 9";
     prompt-background:           #51afef;
     prompt-foreground:           #282c34;
     prompt-padding:              4px;
     alternate-normal-background: #1c1f24;
     alternate-normal-foreground: @text-color;
-    selected-normal-background:  #ae3f3e;
+    selected-normal-background:  #2043bf;
     selected-normal-foreground:  #ffffff;
     spacing:                     3;
 }
