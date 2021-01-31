@@ -2,8 +2,6 @@
 
 Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may change distros or even change window managers.
 
-![](https://i.imgur.com/mW4ApHZ.png)
-
 
 # Here are my Windows Managers config files
 
@@ -11,7 +9,6 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 |:-------------:|
 |![](https://i.imgur.com/mW4ApHZ.png)|
 
-- [XMonad](https://github.com/Shoto31/Dotfiles/tree/main/xmonad)
 - [i3](https://github.com/Shoto31/Dotfiles/tree/main/.config/i3)
 
 # Some other config files of mine are 
