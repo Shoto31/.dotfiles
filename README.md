@@ -14,15 +14,15 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 
 - [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  
-----
+```
 ### install Arch: (`sudo pamcan -S kitty `)
-----    
+```   
           
 - [Qutebrowser](https://github.com/Shoto31/Dotfiles/tree/main/.config/qutebrowser)
 
-----
+```
 ### install Arch  (`pacman -S qutebrowser`)
-----
+```
 
 - [XMobar](https://gitlab.com/Shoto31/Dotfiles/tree/main/.config/xmobar)
 - [Doom Emacs](https://gitlab.com/Shoto31/Dotfiles/tree/main/.doom.d)
