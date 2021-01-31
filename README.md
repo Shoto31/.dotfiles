@@ -13,6 +13,7 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 # Some other config files of mine are 
 
 
+
 - [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  
 ```
 ### install Arch: (`sudo pamcan -S kitty `)
