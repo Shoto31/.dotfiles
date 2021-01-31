@@ -9,16 +9,21 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 - [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)
 - [XMonad](https://github.com/Shoto31/Dotfiles/tree/main/xmonad)
+- [i3](https://github.com/Shoto31/Dotfiles/tree/main/.config/i3)
 
 # Some other config files of mine are 
 
 
-- [Alacritty](https://github.com/Shoto31/Dotfiles/tree/main/.config/alacritty)
+- [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  install Arch: (`sudo pamcan -S kitty `)
 - [Qutebrowser](https://github.com/Shoto31/Dotfiles/tree/main/.config/qutebrowser)
 - [XMobar](https://gitlab.com/Shoto31/Dotfiles/tree/main/.config/xmobar)
 - [Doom Emacs](https://gitlab.com/Shoto31/Dotfiles/tree/main/.doom.d)
 - [Zsh](https://github.com/Shoto31/Dotfiles/blob/main/.zshrc)
+- [Polybar](https://github.com/Shoto31/Dotfiles/tree/main/.config/polybar)
+- [Dunst](https://github.com/Shoto31/Dotfiles/tree/main/.config/dunst)
 
+# The Picom fork I use with all my configurations:
+- [Jonabur's fork of picom](https://github.com/jonaburg/picom) for the compositor (blur and animations)  install AUR: (`yay -S picom-jonaburg-git `)
 
 
 
