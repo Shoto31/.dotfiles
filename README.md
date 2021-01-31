@@ -34,7 +34,7 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 ### install Arch (`sudo pacman -S dunst`)
 ```
 
-# The Picom fork I use with all my configurations:
+## The Picom fork I use with all my configurations:
 - [Jonabur's fork of picom](https://github.com/jonaburg/picom) for the compositor (blur and animations)  
 ```
 install AUR: (`yay -S picom-jonaburg-git `)
