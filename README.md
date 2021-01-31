@@ -7,7 +7,10 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 # Here are my Windows Managers config files
 
-- [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)
+|- [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|
+|:-------------:|
+|![](https://i.imgur.com/mW4ApHZ.png)|
+
 - [XMonad](https://github.com/Shoto31/Dotfiles/tree/main/xmonad)
 - [i3](https://github.com/Shoto31/Dotfiles/tree/main/.config/i3)
 
