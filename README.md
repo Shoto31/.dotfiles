@@ -5,14 +5,9 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 # Here are my Windows Managers config files
 
-| [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|
-|:-------------:|
-|![](https://i.imgur.com/mW4ApHZ.png)|
-
-
-| [i3-gaps](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|
-|:-------------:|
-|![](https://i.imgur.com/OkW98Dp.pngg)|
+| [Awesome](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|| [i3-gaps](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|
+|:-------------:||:-------------:|
+|![](https://i.imgur.com/mW4ApHZ.png)||![](https://i.imgur.com/OkW98Dp.pngg)|
 
 
 # Some other config files of mine are 
@@ -20,13 +15,13 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 - [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  
 ----
-# install Arch: (`sudo pamcan -S kitty `)
+### install Arch: (`sudo pamcan -S kitty `)
 ----    
           
 - [Qutebrowser](https://github.com/Shoto31/Dotfiles/tree/main/.config/qutebrowser)
 
 ----
-# install Arch  (`pacman -S qutebrowser`)
+### install Arch  (`pacman -S qutebrowser`)
 ----
 
 - [XMobar](https://gitlab.com/Shoto31/Dotfiles/tree/main/.config/xmobar)
