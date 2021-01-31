@@ -2,7 +2,7 @@
 
 Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may change distros or even change window managers.
 
-![screenshot](https://gitlab.com/Shoto31/dotfiles/-/raw/master/screenshots/2020-11-15_21-55.png)
+![](https://i.imgur.com/mW4ApHZ.png)
 
 
 # Here are my Windows Managers config files
