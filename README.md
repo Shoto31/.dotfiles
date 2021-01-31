@@ -9,7 +9,11 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 |:-------------:|
 |![](https://i.imgur.com/mW4ApHZ.png)|
 
-- [i3](https://github.com/Shoto31/Dotfiles/tree/main/.config/i3)
+
+| [i3](https://github.com/Shoto31/Dotfiles/tree/main/.config/awesome)|
+|:-------------:|
+|![](https://i.imgur.com/OkW98Dp.pngg)|
+
 
 # Some other config files of mine are 
 
