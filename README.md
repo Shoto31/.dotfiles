@@ -16,24 +16,36 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 
 - [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  
 ```
-### install Arch: (`sudo pamcan -S kitty `)
+install Arch: (`sudo pamcan -S kitty `)
 ```   
+```
+install Ubuntu: (`sudo apt install kitty `)
+```  
           
 - [Qutebrowser](https://github.com/Shoto31/Dotfiles/tree/main/.config/qutebrowser)
 
 ```
-### install Arch  (`pacman -S qutebrowser`)
+install Arch  (`pacman -S qutebrowser`)
 ```
+```
+install Ubuntu: (`sudo apt install qutebrowser `)
+```  
 
 - [Polybar](https://github.com/Shoto31/Dotfiles/tree/main/.config/polybar)
 ```
-### install Arch (`sudo pacman -S polybar`)
+install Arch (`sudo pacman -S polybar`)
 ```
+```
+install Ubuntu: (`sudo apt install polybar `)
+```  
 
 - [Dunst](https://github.com/Shoto31/Dotfiles/tree/main/.config/dunst)
 ```
-### install Arch (`sudo pacman -S dunst`)
+install Arch (`sudo pacman -S dunst`)
 ```
+```
+install Ubuntu: (`sudo apt install dunst `)
+```  
 
 ## The Picom fork I use with all my configurations:
 - [Jonabur's fork of picom](https://github.com/jonaburg/picom) for the compositor (blur and animations)  
