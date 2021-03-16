@@ -6,6 +6,9 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
  ENABLE_CORRECTION="true"
 
  COMPLETION_WAITING_DOTS="true"
+ 
+#set nvim as manpager
+export MANPAGER="nvim -c 'set ft=man' -"
 
 plugins=(git
 	npm
