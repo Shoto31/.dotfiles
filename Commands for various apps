@@ -1,8 +1,0 @@
------------   Anbox    --------------
-anbox.appmgr                   ----------- start anbox
-adb install /path/to/apk       ----------- install apk
-
-
------------  Xmonad   ---------------
-xmonad --recompile             ------------ for recompiling after every xmonad update
-
