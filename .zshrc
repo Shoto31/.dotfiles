@@ -26,6 +26,10 @@ alias sourc='source ~/.zshrc'
 alias pac='sudo pacman -S'
 alias ya='yay -S'
 alias c='clear'
+alias varlock='sudo rm /var/lib/pacman/db.lck'
+alias systema='systemd-analyze'
+alias blame='systemd-analyze blame'
+alias critical='systemd-analyze critical-chain'
 
 # Colorize grep
 alias grep='grep --color=auto'
