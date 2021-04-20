@@ -10,8 +10,6 @@ Dotfiles are the customization files (their filenames usually begin with a perio
 |![](https://i.imgur.com/mW4ApHZ.png)|![](https://i.imgur.com/OkW98Dp.pngg)|
 
 
-# Some other config files of mine are 
-
 
 
 - [Kitty](https://github.com/Shoto31/Dotfiles/tree/main/.config/kitty)  
