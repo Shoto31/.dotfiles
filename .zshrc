@@ -1,3 +1,5 @@
+export PATH="$HOME/.cargo/bin:$PATH"
+
 export ZSH="/home/shoto/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 plugins=(git
@@ -40,7 +42,7 @@ alias fgrep='fgrep --color=auto'
 alias vimrc='vim ~/.vimrc'
 alias zshrc='vim ~/.zshrc'
 alias alac='vim ~/.config/alacritty/alacritty.yml'
-alias poly='vim ~/.config/polybar/config'
+alias poly='vim /home/shoto/.config/polybar/forest/modules.ini'
 alias bsp='vim ~/.config/bspwm/bspwmrc'
 alias sxh='vim ~/.config/sxhkd/sxhkdrc'
 
