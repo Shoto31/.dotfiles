@@ -1,14 +1,20 @@
-export PATH="$HOME/.cargo/bin:$PATH"
+# Path to your oh-my-zsh installation.
+export ZSH="$HOME/.oh-my-zsh"
 
-export ZSH="/home/shoto/.oh-my-zsh"
-ZSH_THEME="robbyrussell"
-plugins=(git
-		pip
-		zsh-autosuggestions
-		autoupdate
-		npm
-		zsh-random-quotes)
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+ZSH_THEME="spaceship"
 
+plugins=(
+  git
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+)
+
+alias vimrc="vim ~/.vimrc"
+alias zshrc="vim ~/.zshrc"
+alias update="sudo apt update && sudo apt upgrade -y"
+alias c="clear"
+alias ref="source ~/.zshrc"
 # Changing "ls" to "exa"
 alias ls='exa -al --color=always --group-directories-first' # my preferred listing
 alias la='exa -a --color=always --group-directories-first'  # all files and dirs
@@ -16,37 +22,7 @@ alias ll='exa -l --color=always --group-directories-first'  # long format
 alias lt='exa -aT --color=always --group-directories-first' # tree listing
 alias l.='exa -a | egrep "^\."'
 
-# Easy use of Doom emacs commands
-alias doomsync=“~/.emacs.d/bin/doom sync”
-alias doomdoctor=“~/.emacs.d/bin/doom doctor”
-alias doomupgrade=“~/.emacs.d/bin/doom upgrade”
-alias doompurge=“~/.emacs.d/bin/doom purge”
 
-# System
-alias yays='yay -Syuu'
-alias sourc='source ~/.zshrc'
-alias pac='sudo pacman -S'
-alias ya='yay -S'
-alias c='clear'
-alias varlock='sudo rm /var/lib/pacman/db.lck'
-alias systema='systemd-analyze'
-alias blame='systemd-analyze blame'
-alias critical='systemd-analyze critical-chain'
-
-# Colorize grep
-alias grep='grep --color=auto'
-alias egrep='egrep --color=auto'
-alias fgrep='fgrep --color=auto'
-
-# Config files
-alias vimrc='vim ~/.vimrc'
-alias zshrc='vim ~/.zshrc'
-alias alac='vim ~/.config/alacritty/alacritty.yml'
-alias poly='vim /home/shoto/.config/polybar/forest/modules.ini'
-alias bsp='vim ~/.config/bspwm/bspwmrc'
-alias sxh='vim ~/.config/sxhkd/sxhkdrc'
-
-eval "$(starship init zsh)"
-
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#663399,standout"
 
 source $ZSH/oh-my-zsh.sh
